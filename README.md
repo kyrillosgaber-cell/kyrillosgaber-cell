@@ -1,6 +1,6 @@
 # Hi, I'm Kyrillos Gaber 👋
 
-## Data Analyst | SQL • Power BI • Excel • Python
+## Data Analyst | SQL • Power BI • Excel 
 
 I am a data analyst focused on transforming raw data into clear, actionable business insights.
 
